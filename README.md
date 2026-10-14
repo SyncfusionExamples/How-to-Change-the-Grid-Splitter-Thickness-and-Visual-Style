@@ -4,8 +4,6 @@ This repository contains a sample demonstrating how to customize the thickness a
 
 The Grid Splitter control provides customization options that allow developers to modify the appearance of the separator displayed between adjacent panes. By adjusting properties such as `SeparatorSize` and `SeparatorBackground`, you can create splitters that better align with your application's design language and improve the user experience.
 
-In many business applications, dashboards, and management systems, the default splitter appearance may not match the overall visual theme. Increasing the splitter thickness makes it easier for users to identify and interact with the resize handle, especially on touch-enabled devices. Similarly, applying a custom background color helps make the splitter more visible and visually distinct from pane content.
-
 In this example, the splitter thickness is increased to 12 device-independent units using the `SeparatorSize` property, while the splitter background color is customized using the `SeparatorBackground` property. The result is a more prominent and visually appealing resize separator between panes.
 
 ## Sample
@@ -100,29 +98,6 @@ When the application runs, the following behavior can be observed:
 - Pane sizes update dynamically during resizing.
 - The customized separator improves visual clarity and usability.
 - The layout remains responsive across different screen sizes.
-
-## Benefits
-
-Customizing the splitter thickness and appearance provides several advantages:
-
-- Improves splitter visibility.
-- Enhances touch interaction on larger screens and tablets.
-- Matches application branding and themes.
-- Creates a modern and polished user interface.
-- Provides a better user experience for pane resizing.
-- Makes dashboard and workspace layouts easier to use.
-
-## Common Use Cases
-
-Changing the Grid Splitter visual style is particularly useful for:
-
-- Business dashboards.
-- Reporting applications.
-- Data management systems.
-- Administrative portals.
-- Design and editing tools.
-- Enterprise productivity applications.
-- Applications with custom branding requirements.
 
 ## Conclusion
 
